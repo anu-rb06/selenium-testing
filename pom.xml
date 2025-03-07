@@ -7,7 +7,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>asdf</name>
 	<description>sdf</description>
-	<build>
+<build>
     <plugins>
         <plugin>
             <groupId>org.codehaus.mojo</groupId>
